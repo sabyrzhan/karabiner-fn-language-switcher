@@ -26,7 +26,6 @@
 		F59A6DDB276FB42200BAA525 /* LanguageSwitcher */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LanguageSwitcher; sourceTree = BUILT_PRODUCTS_DIR; };
 		F59A6DDE276FB42200BAA525 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		F5CAC1BD276FCFF5003ECDF4 /* double_fn_switch_language.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = double_fn_switch_language.json; sourceTree = "<group>"; };
-		F5CAC1BE276FD01A003ECDF4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +60,6 @@
 			children = (
 				F59A6DDE276FB42200BAA525 /* main.swift */,
 				F5CAC1BD276FCFF5003ECDF4 /* double_fn_switch_language.json */,
-				F5CAC1BE276FD01A003ECDF4 /* README.md */,
 			);
 			path = LanguageSwitcher;
 			sourceTree = "<group>";
