@@ -27,5 +27,15 @@ This repository contains:
     * XCode 13.1
 2. Karabiner-elements 14.3.0
 
+## Used resources
+* https://github.com/hatashiro/kawa
+* https://stackoverflow.com/questions/22885767/how-to-programmatically-switch-an-input-method-on-os-x
+* https://newbedev.com/change-osx-keyboard-layout-input-source-programmatically-via-terminal-or-applescript
+* https://stackoverflow.com/questions/6074757/change-input-source-language-programmatically-osx
+* https://stackoverflow.com/questions/34120142/swift-cfarray-get-values-as-utf-strings
+* https://github.com/creasty/Keyboard/blob/master/keyboard/Extensions/TISInputSource.swift
+* https://stackoverflow.com/questions/40821120/detect-current-input-language#comment69014698_40821120
+* https://karabiner-elements.pqrs.org/docs/json/complex-modifications-manipulator-definition/to/shell-command/
+
 
 (c) 2021
