@@ -15,7 +15,9 @@ This repository contains:
 
 1. Clone this repo and open project in XCode
 2. Modify file `main.swift` by adding your own language preferences
-3. Release it by Archiving the project and copy generated `LanguageSwitcher` to somewhere
+3. Build the project:
+   * in XCode: archive the project and copy generated `LanguageSwitcher` somewhere
+   * in CLI: run `xcodebuild build` and copy generated `build/Release/LanguageSwitcher` somewhere
 4. Specify full path to `LanguageSwitcher` to `shell_command` in `double_fn_switch_language.json` file
 5. Copy `double_fn_switch_language.json` to `~/.config/karabiner/assets/complex_modifications`
 6. Enable rule in `Karabiner-elements -> Preferences -> Complex modifications -> Add rule -> Execute LanguageSwitcher in shell`
