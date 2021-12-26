@@ -1,4 +1,4 @@
-# Language switcher with `fn` key for Karabiner
+# Language switcher with `fn` key for Karabiner in non-M1 Macs
 
 ## Introduction
 
